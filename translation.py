@@ -1,5 +1,5 @@
 class Translation(object):
-    START_TEXT = " Hi, I Am Uploader Bot 😃 "
+    START_TEXT = "Hi, I Am Uploader Bot 😃 "
 
 /help to know how to use me
 
@@ -10,7 +10,7 @@ For using me contact : @Dhashamoolams_bot
 👉 I Can Rename Telegram Files
  => to rename hit /rename
 
-Support Channel : @CinemaCollections "
+Support Channel : @CinemaCollections"
 
 
 
