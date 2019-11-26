@@ -1,18 +1,19 @@
 class Translation(object):
-    START_TEXT = "Hi, I Am Uploader Bot 😃
+    START_TEXT = """"Hi, I Am @CC Uploadbot 😃
 
 /help to know how to use me
 
 For using me contact : @Dhashamoolams_bot
 
+
 👉 I Can Upload Files To Telegram
+
+👉 I Can Generate Links To Telegram Files
 
 👉 I Can Rename Telegram Files
  => to rename hit /rename
 
-Support Channel : @CinemaCollections"
-
-
+Support Channel : @CinemaCollections""""
 
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
