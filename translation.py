@@ -1,8 +1,11 @@
 class Translation(object):
-    START_TEXT = """alive
+    START_TEXT = """apun jinda hai saaar 
+Ekdam sahi se kaam ke rha h hai sir 
+Koi dikkat h @thestarkarmy13260 ko boliye saaar
+♥️♥️♥️Made for ACID ARMY & CAPTAIN ARENA with love ♥️♥️♥️
 /help for help
 
-https://github.com/David-raj123/AnyDLBot
+
 """
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
@@ -42,7 +45,7 @@ Expires on: {}"""
 ⭕ Generate Custom Thumbnail by sending two photos in a Media Album
 ⭕ Trim large videos,and Take Screenshots of Telegram media files.
 ⭕ Extract compressed Telegram media
-⭕ Get a Telegram sticker as a Telegram downloadable media By @David9010
+⭕ Get a Telegram sticker as a Telegram downloadable media 
 --------
 Send /me to know current plan details"""
     REPLY_TO_DOC_GET_LINK = "Reply to a Telegram media to get High Speed Direct Download Link"
@@ -71,7 +74,7 @@ You can use /rename command after receiving file to rename it with custom thumbn
     CANCEL_STR = "Process Cancelled"
     ZIP_UPLOADED_STR = "Uploaded {} files in {} seconds"
     FREE_USER_LIMIT_Q_SZE = """Cannot Process.
-Free users only 1 request per 1 month😡.
+Free users only 1 request per 1 day😡.
 /upgrade or Try today midnight later."""
     G_DRIVE_GIVE_URL_TO_LOGIN = "Please login using {}. Send `/gsetup <YOUR CODE>`"
     G_DRIVE_SETUP_IN_VALID_FORMAT = "Send `/gsetup <YOUR CODE>`"
